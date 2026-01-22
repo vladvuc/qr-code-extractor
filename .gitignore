@@ -1,0 +1,14 @@
+EXCEL/
+output/
+venv/
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+.idea/
+.vscode/
+*.log
+.env
+.env.*
+.ipynb_checkpoints/
+.claude/
